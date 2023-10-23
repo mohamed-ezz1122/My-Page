@@ -143,6 +143,16 @@ body:has(.contact:target) .contact-link
 
 }
 
+/* ============about Style */
+.desc
+{
+  font-family: 'Roboto Slab', serif;
+}
+.about-desc
+{
+  font-family: 'Roboto Slab', serif;
+}
+
 /* ============skills Style */
 /* .skills
 {
